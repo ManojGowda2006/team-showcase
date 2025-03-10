@@ -1,3 +1,3 @@
 # team-showcase
 
-Deployed Link :- "https://github.com/ManojGowda2006/team-showcase.git"
+Deployed Link :- "https://team-showcase-pi.vercel.app/"
