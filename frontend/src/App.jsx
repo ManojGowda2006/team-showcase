@@ -45,7 +45,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path ="/about" element={<Teamember data = {data}/>}/>
+        <Route path ="/" element={<Teamember data = {data}/>}/>
       </Routes>
     </BrowserRouter>
   )
